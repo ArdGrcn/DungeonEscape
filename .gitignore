@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 #Medieval Dungeon asset pack
 Content/MedievalDungeon/*
+
+#Landscape Textures
+Content/Landscape/Textures/*
